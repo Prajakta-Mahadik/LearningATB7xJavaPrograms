@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="66a713fa-bf97-491d-bbdd-dbb24718bc7e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningATB7xJavaPrograms.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="66a713fa-bf97-491d-bbdd-dbb24718bc7e" name="Changes" comment="Programs are uploaded">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Prajakta-Mahadik"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Prajakta-Mahadik/LearningATB7xJavaPrograms.git",
+    "accountId": "abeb162a-9a68-4e08-9dd1-04e3bc86271e"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
 }]]></component>
@@ -39,39 +48,18 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.Lab_001.executor": "Run",
     "Application.Lab_002.executor": "Run",
+    "Application.Lab_003.executor": "Run",
+    "Application.Lab_004.executor": "Run",
+    "Application.Lab_005.executor": "Run",
+    "Application.Lab_006.executor": "Run",
+    "Application.Lab_007.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/AP-1058/IdeaProjects/LearningATB7xJavaPrograms/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab_003">
-    <configuration name="Lab_001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_07072024.Lab_001" />
-      <module name="LearningATB7xJavaPrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_07072024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab_002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_07072024.Lab_002" />
-      <module name="LearningATB7xJavaPrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_07072024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lab_007">
     <configuration name="Lab_003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_13072024.Lab_003" />
       <module name="LearningATB7xJavaPrograms" />
@@ -85,11 +73,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab_004" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_13072024.Lab_004" />
+      <module name="LearningATB7xJavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_13072024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab_005" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_13072024.Lab_005" />
+      <module name="LearningATB7xJavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_13072024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab_006" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_13072024.Lab_006" />
+      <module name="LearningATB7xJavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_13072024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab_007" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_13072024.Lab_007" />
+      <module name="LearningATB7xJavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_13072024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab_007" />
+        <item itemvalue="Application.Lab_006" />
+        <item itemvalue="Application.Lab_005" />
+        <item itemvalue="Application.Lab_004" />
         <item itemvalue="Application.Lab_003" />
-        <item itemvalue="Application.Lab_002" />
-        <item itemvalue="Application.Lab_001" />
       </list>
     </recent_temporary>
   </component>
@@ -102,7 +144,20 @@
       <option name="presentableId" value="Default" />
       <updated>1720881765385</updated>
     </task>
+    <task id="LOCAL-00001" summary="Programs are uploaded">
+      <option name="closed" value="true" />
+      <created>1720882161126</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720882161126</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Programs are uploaded" />
+    <option name="LAST_COMMIT_MESSAGE" value="Programs are uploaded" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
