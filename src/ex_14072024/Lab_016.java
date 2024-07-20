@@ -11,5 +11,6 @@ public class Lab_016 {
         System.out.println(pass.equals(password));
         System.out.println(pass.equalsIgnoreCase(password));
         System.out.println(password.indexOf("1"));
+        System.out.println(pass.subSequence(0,5));
     }
 }
