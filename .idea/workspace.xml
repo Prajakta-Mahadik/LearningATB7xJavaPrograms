@@ -60,19 +60,33 @@
     "Application.Lab_012.executor": "Run",
     "Application.Lab_015.executor": "Run",
     "Application.Lab_016.executor": "Run",
+    "Application.Lab_017.executor": "Run",
+    "Application.Lab_018.executor": "Debug",
+    "Application.Lab_019.executor": "Run",
+    "Application.Lab_020.executor": "Run",
+    "Application.Lab_021.executor": "Run",
+    "Application.Lab_022.executor": "Run",
+    "Application.Lab_023.executor": "Run",
+    "Application.Lab_024.executor": "Run",
+    "Application.Lab_025.executor": "Debug",
+    "Application.Lab_027.executor": "Run",
+    "Application.Lab_028.executor": "Run",
+    "Application.Lab_029.executor": "Run",
+    "Application.Lab_030.executor": "Run",
+    "Application.Lba_026.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/AP-1058/IdeaProjects/LearningATB7xJavaPrograms/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab_016">
-    <configuration name="Lab_010" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_14072024.Lab_010" />
+  <component name="RunManager" selected="Application.Lab_030">
+    <configuration name="Lab_026" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_20072024.Lab_026" />
       <module name="LearningATB7xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_14072024.*" />
+          <option name="PATTERN" value="ex_20072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab_011" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_14072024.Lab_011" />
+    <configuration name="Lab_027" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_20072024.Lab_027" />
       <module name="LearningATB7xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_14072024.*" />
+          <option name="PATTERN" value="ex_20072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab_012" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_14072024.Lab_012" />
+    <configuration name="Lab_028" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_20072024.Lab_028" />
       <module name="LearningATB7xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_14072024.*" />
+          <option name="PATTERN" value="ex_20072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab_015" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_14072024.Lab_015" />
+    <configuration name="Lab_029" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_20072024.Lab_029" />
       <module name="LearningATB7xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_14072024.*" />
+          <option name="PATTERN" value="ex_20072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab_016" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_14072024.Lab_016" />
+    <configuration name="Lab_030" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_20072024.Lab_030" />
       <module name="LearningATB7xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_14072024.*" />
+          <option name="PATTERN" value="ex_20072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab_016" />
-        <item itemvalue="Application.Lab_015" />
-        <item itemvalue="Application.Lab_012" />
-        <item itemvalue="Application.Lab_011" />
-        <item itemvalue="Application.Lab_010" />
+        <item itemvalue="Application.Lab_030" />
+        <item itemvalue="Application.Lab_029" />
+        <item itemvalue="Application.Lab_028" />
+        <item itemvalue="Application.Lab_027" />
+        <item itemvalue="Application.Lab_026" />
       </list>
     </recent_temporary>
   </component>
@@ -175,7 +189,31 @@
       <option name="project" value="LOCAL" />
       <updated>1720980477080</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="3rd lab programs are uploaded">
+      <option name="closed" value="true" />
+      <created>1721288056795</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1721288056795</updated>
+    </task>
+    <task id="LOCAL-00005" summary="3rd lab programs are uploaded">
+      <option name="closed" value="true" />
+      <created>1721288124251</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1721288124251</updated>
+    </task>
+    <task id="LOCAL-00006" summary="3rd lab programs are uploaded">
+      <option name="closed" value="true" />
+      <created>1721477445298</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1721477445298</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
