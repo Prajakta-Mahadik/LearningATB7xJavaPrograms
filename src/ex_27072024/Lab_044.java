@@ -12,5 +12,15 @@ public class Lab_044 {
             }
         }
         System.out.println(max);
+
+        int min= salaries[0];
+        for (int i=0; i<salaries.length; i++)
+        {
+            if(salaries[i]<min)
+            {
+                min=salaries[i];
+            }
+        }
+        System.out.println(min);
     }
 }

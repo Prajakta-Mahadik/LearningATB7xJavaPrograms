@@ -9,11 +9,11 @@ public class Animal {
     String name;
 
     //behaviour or method
-    void eat() {}
+    void eat()   {}
     void sleep() {}
-    void walk() {}
-    void run() {}
-    void bark() {}
+    void walk()  {}
+    void run()   {}
+    void bark()  {}
 
     //main method call
     public static void main(String[] args) {

@@ -4,12 +4,15 @@ public class Lab_041 {
     public static void main(String[] args) {
         //strings- It's a collection of homogeneous data type
         // Syntax: dataType[] arrayName;
-        int[] my_marks = {70,85,90,55,35};
-        System.out.println(my_marks.length);
+        int[] my_Marks = {70,85,90,55,35};
+        System.out.println(my_Marks.length);
+
         String[] studentName = {"Praju","Nilesh","Pratik"};
         System.out.println(studentName[0]);
+
         boolean[] food_categories = {true, false};
         System.out.println(food_categories.length);
+
         char[] letters = {'a','e','i','o','u'};
         System.out.println(letters[4]);
 
