@@ -1,4 +1,4 @@
-package ex_10082024_aug;
+package ex_10082024_aug.Encap;
 
 public class Lab_053 {
     //fixing of lab 052 issue of encapsulation

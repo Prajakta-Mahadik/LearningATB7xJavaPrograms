@@ -1,14 +1,16 @@
-package ex_10082024_aug;
+package ex_10082024_aug.Encap;
 
 public class Lab_054 {
     //Requirement- u can get username but not password, u can set userame and password if u are admin
     public static void main(String[] args) {
         facebookLogin f= new facebookLogin("praju","1234");
         System.out.println(f.getUsername1());
-        //f.setUsername1("Praju",true);
-        //System.out.println(f.getUsername1());
-        f.setPasswords("12345",true);
-        System.out.println(f.setPasswords());
+        f.setUsername1("",true);
+        System.out.println(f.getUsername1());
+        System.out.println(f.getPasswords());
+        f.setPasswords("Praju1",true);
+        System.out.println(f.getPasswords());
+
     }
 }
 
@@ -29,14 +31,17 @@ public class Lab_054 {
                 System.out.println("not allowed");
             }
         }
-        // removed get password bcoz of requirement that we cant get username.
 
-        public void setPasswords(String passwords,boolean isAdmin1) {
-            if (isAdmin1) {
-                this.passwords = "456789";
-            }else
-            {
-                System.out.println("not allowed");
+        public String getPasswords() {
+            return passwords;
+        }
+
+        public void setPasswords(String passwords,boolean isAuth) {
+            if(isAuth) {
+                this.passwords = passwords;
+                System.out.println("Allowed");
+            }else {
+                System.out.println("Not Allowed!");
             }
         }
 
