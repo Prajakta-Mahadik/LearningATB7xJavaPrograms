@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66a713fa-bf97-491d-bbdd-dbb24718bc7e" name="Changes" comment="new code updated">
+    <list default="true" id="66a713fa-bf97-491d-bbdd-dbb24718bc7e" name="Changes" comment="18082024 code updated">
+      <change afterPath="$PROJECT_DIR$/src/ex_24082024_aug_CollectionFramework/Lab_067_vectors.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_10082024_aug/Lab_052.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_10082024_aug/Encap/Lab_052.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_10082024_aug/Lab_053.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_10082024_aug/Encap/Lab_053.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_10082024_aug/Lab_054.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_10082024_aug/Encap/Lab_054.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_18082024_aug/Lab_065.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_24082024_aug_CollectionFramework/Lab_065.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_18082024_aug/Lab_066.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_24082024_aug_CollectionFramework/Lab_066.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_18082024_aug/Lab_067.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -53,6 +56,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.Animal.executor": "Run",
     "Application.Baleno.executor": "Run",
+    "Application.Bank.executor": "Run",
     "Application.Car.executor": "Run",
     "Application.Lab_001.executor": "Run",
     "Application.Lab_002.executor": "Run",
@@ -108,11 +112,39 @@
     "Application.Lab_056.executor": "Run",
     "Application.Lab_057.executor": "Run",
     "Application.Lab_058_MethodOverRidding.executor": "Run",
+    "Application.Lab_059.executor": "Run",
+    "Application.Lab_060.executor": "Run",
+    "Application.Lab_061.executor": "Run",
+    "Application.Lab_065.executor": "Run",
+    "Application.Lab_066.executor": "Run",
+    "Application.Lab_067.executor": "Run",
+    "Application.Lab_068.executor": "Run",
+    "Application.Lab_069.executor": "Run",
+    "Application.Lab_070.executor": "Run",
+    "Application.Lab_071.executor": "Run",
+    "Application.Lab_072.executor": "Run",
+    "Application.Lab_073_sets.executor": "Run",
+    "Application.Lab_074_queues.executor": "Run",
+    "Application.Lab_075_maps.executor": "Run",
     "Application.Lba_026.executor": "Run",
+    "Application.MaxFun.executor": "Run",
     "Application.Person.executor": "Run",
     "Application.Principal.executor": "Run",
     "Application.RealTimeEx.executor": "Run",
+    "Application.Son.executor": "Run",
     "Application.Student.executor": "Run",
+    "Application.T2.executor": "Run",
+    "Application.TH01.executor": "Run",
+    "Application.TH02.executor": "Run",
+    "Application.TH03.executor": "Run",
+    "Application.Test1.executor": "Run",
+    "Application.User.executor": "Run",
+    "Application.ex_11082024_aug.interfaces.ex1.Lab_059.executor": "Run",
+    "Application.ex_11082024_aug.interfaces.ex2.Son.executor": "Run",
+    "Application.ex_18082024_aug.Lab_065.executor": "Run",
+    "Application.ex_18082024_aug.Lab_066.executor": "Run",
+    "Application.ex_18082024_aug.Lab_067.executor": "Run",
+    "Application.lab_064.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -120,13 +152,13 @@
     "settings.editor.selected.configurable": "configurable.group.editor"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.RealTimeEx">
-    <configuration name="Baleno" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_10082024_aug.SuperKeyword.Baleno" />
+  <component name="RunManager" selected="Application.Lab_075_maps">
+    <configuration name="Lab_071" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_24082024_aug.Lab_071" />
       <module name="LearningATB7xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_10082024_aug.SuperKeyword.*" />
+          <option name="PATTERN" value="ex_24082024_aug_CollectionFramework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,12 +166,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab_057_MethodOverloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_10082024_aug.Poly.Lab_057_MethodOverloading" />
+    <configuration name="Lab_072" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_24082024_aug_CollectionFramework.Lab_072" />
       <module name="LearningATB7xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_10082024_aug.Poly.*" />
+          <option name="PATTERN" value="ex_24082024_aug_CollectionFramework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,12 +179,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab_058_MethodOverRidding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_10082024_aug.Poly.Lab_058_MethodOverRidding" />
+    <configuration name="Lab_073_sets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_24082024_aug_CollectionFramework.Lab_073_sets" />
       <module name="LearningATB7xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_10082024_aug.Poly.*" />
+          <option name="PATTERN" value="ex_24082024_aug_CollectionFramework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,12 +192,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RealTimeEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_10082024_aug.RealTimeEx" />
+    <configuration name="Lab_074_queues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_24082024_aug_CollectionFramework.Lab_074_queues" />
       <module name="LearningATB7xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_10082024_aug.*" />
+          <option name="PATTERN" value="ex_24082024_aug_CollectionFramework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -173,12 +205,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_10082024_aug.SuperKeyword.Student" />
+    <configuration name="Lab_075_maps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_24082024_aug_CollectionFramework.Lab_075_maps" />
       <module name="LearningATB7xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_10082024_aug.SuperKeyword.*" />
+          <option name="PATTERN" value="ex_24082024_aug_CollectionFramework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -186,13 +218,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Lab_071" />
+      <item itemvalue="Application.Lab_072" />
+      <item itemvalue="Application.Lab_073_sets" />
+      <item itemvalue="Application.Lab_074_queues" />
+      <item itemvalue="Application.Lab_075_maps" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RealTimeEx" />
-        <item itemvalue="Application.Baleno" />
-        <item itemvalue="Application.Student" />
-        <item itemvalue="Application.Lab_058_MethodOverRidding" />
-        <item itemvalue="Application.Lab_057_MethodOverloading" />
+        <item itemvalue="Application.Lab_075_maps" />
+        <item itemvalue="Application.Lab_074_queues" />
+        <item itemvalue="Application.Lab_073_sets" />
+        <item itemvalue="Application.Lab_072" />
+        <item itemvalue="Application.Lab_071" />
       </list>
     </recent_temporary>
   </component>
@@ -293,7 +332,31 @@
       <option name="project" value="LOCAL" />
       <updated>1723468869951</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="new code updated">
+      <option name="closed" value="true" />
+      <created>1723717771051</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1723717771051</updated>
+    </task>
+    <task id="LOCAL-00013" summary="17082024 code updated">
+      <option name="closed" value="true" />
+      <created>1723995321433</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1723995321433</updated>
+    </task>
+    <task id="LOCAL-00014" summary="18082024 code updated">
+      <option name="closed" value="true" />
+      <created>1724173946488</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1724173946488</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -303,7 +366,9 @@
     <MESSAGE value="5th lab programs are uploaded" />
     <MESSAGE value="updated" />
     <MESSAGE value="new code updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="new code updated" />
+    <MESSAGE value="17082024 code updated" />
+    <MESSAGE value="18082024 code updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="18082024 code updated" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
