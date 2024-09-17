@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66a713fa-bf97-491d-bbdd-dbb24718bc7e" name="Changes" comment="18082024 code updated">
-      <change afterPath="$PROJECT_DIR$/src/ex_24082024_aug_CollectionFramework/Lab_067_vectors.java" afterDir="false" />
+    <list default="true" id="66a713fa-bf97-491d-bbdd-dbb24718bc7e" name="Changes" comment="24082024 code updated">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_18082024_aug/Lab_065.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_24082024_aug_CollectionFramework/Lab_065.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_18082024_aug/Lab_066.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_24082024_aug_CollectionFramework/Lab_066.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_18082024_aug/Lab_067.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_24082024_aug_CollectionFramework/Lab_070_tostringMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_24082024_aug_CollectionFramework/Lab_070_tostringMethod.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,107 +48,107 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.Animal.executor": "Run",
-    "Application.Baleno.executor": "Run",
-    "Application.Bank.executor": "Run",
-    "Application.Car.executor": "Run",
-    "Application.Lab_001.executor": "Run",
-    "Application.Lab_002.executor": "Run",
-    "Application.Lab_003.executor": "Run",
-    "Application.Lab_004.executor": "Run",
-    "Application.Lab_005.executor": "Run",
-    "Application.Lab_006.executor": "Run",
-    "Application.Lab_007.executor": "Run",
-    "Application.Lab_008.executor": "Run",
-    "Application.Lab_009.executor": "Run",
-    "Application.Lab_010.executor": "Run",
-    "Application.Lab_011.executor": "Run",
-    "Application.Lab_012.executor": "Run",
-    "Application.Lab_015.executor": "Run",
-    "Application.Lab_016.executor": "Run",
-    "Application.Lab_017.executor": "Run",
-    "Application.Lab_018.executor": "Debug",
-    "Application.Lab_019.executor": "Run",
-    "Application.Lab_020.executor": "Run",
-    "Application.Lab_021.executor": "Run",
-    "Application.Lab_022.executor": "Run",
-    "Application.Lab_023.executor": "Run",
-    "Application.Lab_024.executor": "Run",
-    "Application.Lab_025.executor": "Debug",
-    "Application.Lab_027.executor": "Run",
-    "Application.Lab_028.executor": "Run",
-    "Application.Lab_029.executor": "Run",
-    "Application.Lab_030.executor": "Run",
-    "Application.Lab_031.executor": "Run",
-    "Application.Lab_032.executor": "Run",
-    "Application.Lab_033.executor": "Run",
-    "Application.Lab_034.executor": "Run",
-    "Application.Lab_035.executor": "Run",
-    "Application.Lab_036.executor": "Run",
-    "Application.Lab_037.executor": "Debug",
-    "Application.Lab_038.executor": "Run",
-    "Application.Lab_039.executor": "Run",
-    "Application.Lab_040.executor": "Run",
-    "Application.Lab_041.executor": "Run",
-    "Application.Lab_042.executor": "Run",
-    "Application.Lab_043.executor": "Run",
-    "Application.Lab_044.executor": "Debug",
-    "Application.Lab_045.executor": "Run",
-    "Application.Lab_046.executor": "Run",
-    "Application.Lab_047.executor": "Run",
-    "Application.Lab_048.executor": "Run",
-    "Application.Lab_049.executor": "Run",
-    "Application.Lab_050.executor": "Run",
-    "Application.Lab_051.executor": "Run",
-    "Application.Lab_052.executor": "Run",
-    "Application.Lab_053.executor": "Run",
-    "Application.Lab_054.executor": "Run",
-    "Application.Lab_056.executor": "Run",
-    "Application.Lab_057.executor": "Run",
-    "Application.Lab_058_MethodOverRidding.executor": "Run",
-    "Application.Lab_059.executor": "Run",
-    "Application.Lab_060.executor": "Run",
-    "Application.Lab_061.executor": "Run",
-    "Application.Lab_065.executor": "Run",
-    "Application.Lab_066.executor": "Run",
-    "Application.Lab_067.executor": "Run",
-    "Application.Lab_068.executor": "Run",
-    "Application.Lab_069.executor": "Run",
-    "Application.Lab_070.executor": "Run",
-    "Application.Lab_071.executor": "Run",
-    "Application.Lab_072.executor": "Run",
-    "Application.Lab_073_sets.executor": "Run",
-    "Application.Lab_074_queues.executor": "Run",
-    "Application.Lab_075_maps.executor": "Run",
-    "Application.Lba_026.executor": "Run",
-    "Application.MaxFun.executor": "Run",
-    "Application.Person.executor": "Run",
-    "Application.Principal.executor": "Run",
-    "Application.RealTimeEx.executor": "Run",
-    "Application.Son.executor": "Run",
-    "Application.Student.executor": "Run",
-    "Application.T2.executor": "Run",
-    "Application.TH01.executor": "Run",
-    "Application.TH02.executor": "Run",
-    "Application.TH03.executor": "Run",
-    "Application.Test1.executor": "Run",
-    "Application.User.executor": "Run",
-    "Application.ex_11082024_aug.interfaces.ex1.Lab_059.executor": "Run",
-    "Application.ex_11082024_aug.interfaces.ex2.Son.executor": "Run",
-    "Application.ex_18082024_aug.Lab_065.executor": "Run",
-    "Application.ex_18082024_aug.Lab_066.executor": "Run",
-    "Application.ex_18082024_aug.Lab_067.executor": "Run",
-    "Application.lab_064.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/AP-1058/IdeaProjects/LearningATB7xJavaPrograms/src/Main.java",
-    "settings.editor.selected.configurable": "configurable.group.editor"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Animal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baleno.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Bank.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Car.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_001.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_002.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_003.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_004.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_005.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_006.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_007.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_008.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_009.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_010.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_011.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_012.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_015.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_016.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_017.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_018.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Lab_019.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_020.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_021.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_022.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_023.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_024.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_025.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Lab_027.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_028.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_029.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_030.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_031.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_032.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_033.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_034.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_035.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_036.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_037.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Lab_038.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_039.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_040.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_041.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_042.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_043.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_044.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Lab_045.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_046.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_047.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_048.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_049.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_050.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_051.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_052.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_053.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_054.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_056.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_057.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_058_MethodOverRidding.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_059.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_060.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_061.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_065.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_066.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_067.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_068.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_069.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_070.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_071.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_072.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_073_sets.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_074_queues.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_075_maps.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lba_026.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxFun.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Person.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Principal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RealTimeEx.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Son.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Student.executor&quot;: &quot;Run&quot;,
+    &quot;Application.T2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TH01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TH02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TH03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.User.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ex_11082024_aug.interfaces.ex1.Lab_059.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ex_11082024_aug.interfaces.ex2.Son.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ex_18082024_aug.Lab_065.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ex_18082024_aug.Lab_066.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ex_18082024_aug.Lab_067.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lab_064.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/AP-1058/IdeaProjects/LearningATB7xJavaPrograms/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.editor&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Lab_075_maps">
     <configuration name="Lab_071" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_24082024_aug.Lab_071" />
@@ -356,7 +353,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724173946488</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="24082024 code updated">
+      <option name="closed" value="true" />
+      <created>1725124649595</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1725124649598</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -368,7 +373,8 @@
     <MESSAGE value="new code updated" />
     <MESSAGE value="17082024 code updated" />
     <MESSAGE value="18082024 code updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="18082024 code updated" />
+    <MESSAGE value="24082024 code updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="24082024 code updated" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

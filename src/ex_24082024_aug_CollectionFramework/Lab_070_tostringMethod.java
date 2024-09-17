@@ -7,7 +7,7 @@ public class Lab_070_tostringMethod {
 
         Student s  = new Student(1, "Praju");
         Student s1 = new Student(2, "Pratu");
-        Student s2 = new Student(3, "Manju");
+        Student s2 = new Student(3, "Pooja");
 
         List arrayList = new ArrayList();
         arrayList.add(s);
